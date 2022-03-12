@@ -1,0 +1,10 @@
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.csproj.AssemblyReference.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\PVolume\PVolume\obj\Debug\PVolume.pdb
