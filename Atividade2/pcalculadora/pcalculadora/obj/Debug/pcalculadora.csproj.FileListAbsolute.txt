@@ -1,0 +1,10 @@
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\bin\Debug\pcalculadora.exe.config
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\bin\Debug\pcalculadora.exe
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\bin\Debug\pcalculadora.pdb
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.csproj.AssemblyReference.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.Form1.resources
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.Properties.Resources.resources
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.csproj.GenerateResource.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.exe
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pcalculadora\pcalculadora\obj\Debug\pcalculadora.pdb
