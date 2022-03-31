@@ -1,0 +1,10 @@
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\bin\Debug\ptriangulo.exe.config
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\bin\Debug\ptriangulo.exe
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\bin\Debug\ptriangulo.pdb
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.csproj.AssemblyReference.cache
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.Form1.resources
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.Properties.Resources.resources
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.csproj.GenerateResource.cache
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.exe
+C:\Users\Tadao\source\repos\ptriangulo\ptriangulo\obj\Debug\ptriangulo.pdb
