@@ -1,0 +1,10 @@
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\bin\Debug\pIMC.exe.config
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\bin\Debug\pIMC.exe
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\bin\Debug\pIMC.pdb
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.csproj.AssemblyReference.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.Form1.resources
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.Properties.Resources.resources
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.csproj.GenerateResource.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.csproj.CoreCompileInputs.cache
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.exe
+C:\Users\Tadao\Documents\ADS\Second Quarter\LP2\projects\pIMC\pIMC\obj\Debug\pIMC.pdb
