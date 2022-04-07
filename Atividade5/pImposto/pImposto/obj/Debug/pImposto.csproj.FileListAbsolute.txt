@@ -1,0 +1,10 @@
+C:\Users\Tadao\source\repos\pImposto\pImposto\bin\Debug\pImposto.exe.config
+C:\Users\Tadao\source\repos\pImposto\pImposto\bin\Debug\pImposto.exe
+C:\Users\Tadao\source\repos\pImposto\pImposto\bin\Debug\pImposto.pdb
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.csproj.AssemblyReference.cache
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.Form1.resources
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.Properties.Resources.resources
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.csproj.GenerateResource.cache
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.csproj.CoreCompileInputs.cache
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.exe
+C:\Users\Tadao\source\repos\pImposto\pImposto\obj\Debug\pImposto.pdb
