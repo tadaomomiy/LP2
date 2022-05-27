@@ -1,0 +1,47 @@
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe.config
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\bin\Debug\PAtividade9.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.AssemblyReference.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmPrincipal.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.Properties.Resources.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.GenerateResource.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio1.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio2.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio3.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio4.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio5.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\Fatec\2º Semestre\LP2\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio6.resources
+E:\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe.config
+E:\PAtividade9\PAtividade9\bin\Debug\PAtividade9.exe
+E:\PAtividade9\PAtividade9\bin\Debug\PAtividade9.pdb
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csprojAssemblyReference.cache
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmPrincipal.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio1.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio2.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio3.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio4.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio5.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.frmExercicio6.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.Properties.Resources.resources
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.csproj.GenerateResource.cache
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.exe
+E:\PAtividade9\PAtividade9\obj\Debug\PAtividade9.pdb
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\bin\Debug\PAtividade9.exe.config
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\bin\Debug\PAtividade9.exe
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\bin\Debug\PAtividade9.pdb
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\pAtividade9.csproj.AssemblyReference.cache
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmPrincipal.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmExercicio1.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmExercicio2.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmExercicio3.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmExercicio4.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmExercicio5.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.frmExercicio6.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.Properties.Resources.resources
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\pAtividade9.csproj.GenerateResource.cache
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\pAtividade9.csproj.CoreCompileInputs.cache
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.exe
+C:\Users\Tadao\source\repos\pAtividade9\pAtividade9\obj\Debug\PAtividade9.pdb
